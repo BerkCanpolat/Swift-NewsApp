@@ -1,4 +1,10 @@
-Bu projede network olaylarını öğrenirken öğrendiklerimi uygulamaya dökmek için bu uygulamayı geliştirdim.
+Bu projede network olaylarını öğrenirken öğrendiklerimi uygulamaya dökmek için bu uygulamayı geliştirdim. Birçok yapıyı kullandım
+
+- RxSwift
+- MVVM
+- SDWebImage
+- APİ
+- URLSESSİON
 
 
  
